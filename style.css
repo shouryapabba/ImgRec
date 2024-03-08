@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background-image: linear-gradient(rgb(127, 196, 228), rgb(167, 122, 244));
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.name_of_objects {
+    color: rgb(62, 9, 132);
+}
+
+#camera,#result {
+    border: 2px dashed rgb(36, 32, 247);
+    border-style:double;
+    width: 350px;
+    height: 300px;
+}
+
+#result_object_name
+#result_object_accuracy 
+{
+    color:rgb(62, 9, 132);
+}
+
+
